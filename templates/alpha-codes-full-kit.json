@@ -1,0 +1,30 @@
+{
+  "version": "3.29.0",
+  "title": "Alpha Codes - Complete Landing & Pages Kit",
+  "type": "page",
+  "content": [
+    {
+      "id": "hero_section",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width"
+      },
+      "elements": [
+        {
+          "id": "hero_column",
+          "elType": "column",
+          "elements": [
+            {
+              "id": "hero_heading",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "تجارت خانه - قالب شرکتی و فروشگاهی وردپرس"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
